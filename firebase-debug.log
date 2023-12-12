@@ -1,0 +1,28 @@
+[debug] [2023-12-12T18:46:29.536Z] ----------------------------------------------------------------------
+[debug] [2023-12-12T18:46:29.606Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\USER\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2023-12-12T18:46:29.607Z] CLI Version:   13.0.1
+[debug] [2023-12-12T18:46:29.607Z] Platform:      win32
+[debug] [2023-12-12T18:46:29.608Z] Node Version:  v20.10.0
+[debug] [2023-12-12T18:46:29.609Z] Time:          Tue Dec 12 2023 19:46:29 GMT+0100 (West Africa Standard Time)
+[debug] [2023-12-12T18:46:29.610Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-12-12T18:46:29.637Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-12-12T18:46:29.638Z] > authorizing via signed-in user (fawaznasir4@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\USER\Desktop\github\Amazon-ecommerce-clone\amazon-clone
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
